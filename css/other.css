@@ -13,3 +13,12 @@
   .masthead-avatar{
     border-radius: 50%;
   }
+
+  .carousel-inner img {
+    
+    max-height: 460px;
+}
+
+.carousel-inner{
+ height: 400px;
+}
