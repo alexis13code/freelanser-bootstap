@@ -1,0 +1,15 @@
+.bg-primary {
+    background-color: blueviolet !important;
+  }
+
+  .bg-about {
+    background-color: #1abc9c ;
+  }
+
+  section:nth-child(2n+1){
+    background-color: #1abc9c ;
+  }
+
+  .masthead-avatar{
+    border-radius: 50%;
+  }
